@@ -1,0 +1,9 @@
+1.Install Python (latest version) and VS Code on your computer, then take a screenshot of both the Python installation confirmation and the VS Code welcome screen.
+
+Answer:-
+
+Python and VS Code were successfully installed on my computer.
+
+* Python: Successfully installed and working.
+* VS Code: Successfully installed and opened.
+* Screenshots of the Python installation confirmation and VS Code welcome screen are attached below.

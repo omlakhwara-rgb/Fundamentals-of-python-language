@@ -1,0 +1,28 @@
+5.Explain the difference between how Python executes code versus how C or Java executes code, using your own words and a simple example for each.
+
+Answer:-
+
+Python executes the code directly, usually one line at a time, so it is easy to run and test.
+
+Example in python:
+
+python
+print("Hello")
+print("Welcome")
+
+
+C or Java first converts the code into a form that the computer can run by using a compiler, and then the program is executed.
+
+Example in C:
+
+
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello");
+    return 0;
+}
+
+
+In simple words, **Python runs the code directly, while C and Java first compile the code and then run it.**
